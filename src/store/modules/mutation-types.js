@@ -1,0 +1,18 @@
+/**
+ * Created by william on 2017/10/14.
+ */
+
+export const PROJECT_PREVIEW_INFO = 'PROJECT_PREVIEW_INFO';//项目预览信息
+export const PROJECT_MANAGE = 'PROJECT_MANAGE';//项目管理
+export const PROJECT_ERIFY_BEHAVIOUR = 'PROJECT_ERIFY_BEHAVIOUR';//项目验证
+export const RETSET_HOS_NAME = 'RETSET_HOS_NAME';//医院名字
+export const COMMON_UPLOAD_PIC = 'COMMON_UPLOAD_PIC';//公用的上传图片
+export const PROOF_UPLOAD_ACTION = 'PROOF_UPLOAD_ACTION';//公用的上传图片
+export const AFTER_SHARE_PROJECT_INFO = 'AFTER_SHARE_PROJECT_INFO';//分享之后预览的信息
+export const MONEY_COLLECTION_PROCESS = 'MONEY_COLLECTION_PROCESS';//筹款进度
+export const GET_ALL_DETAIL = 'GET_ALL_DETAIL';//QUANWEN
+export const AFTER_GET_ALL_DETAIL = 'AFTER_GET_ALL_DETAIL';//分享之后的全文
+export const PROJECT_BASIC_INFO = 'PROJECT_BASIC_INFO';//获取项目的基本信息以便于编辑
+export const WITHDRAW_MUTUAL_UPLOAD_ACTION = 'WITHDRAW_MUTUAL_UPLOAD_ACTION';//亲属提现图片上传
+
+
