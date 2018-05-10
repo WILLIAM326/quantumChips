@@ -1,6 +1,6 @@
 # zhongchou
 
-类似于轻松筹的大病筹款项目，采用了vue,vuex,axios,sass
+类似于轻松筹的大病筹款项目，采用了vue、vuex、axios、sass、vue-router
 
 > zhongchou
 
